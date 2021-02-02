@@ -1,4 +1,4 @@
-# Minecraft Procedural Music Generation Engine
+# Minecraft Procedural Music Generation
 Game Version: Forge Minecraft 1.12.2 
 
 
